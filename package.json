@@ -1,0 +1,7 @@
+{
+  "name": "yarn-mre",
+  "packageManager": "yarn@4.1.1",
+  "scripts": {
+    "prepack": "mkdir itworked"
+  }
+}
